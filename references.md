@@ -2,6 +2,7 @@
 
 1. Harvard cours of Neorobiology fundamentals – https://www.mcb80x.org 
 2. Articles:
+
 * Lowe, R., Herrera, C., Morse, A., & Ziemke, T. (2007). *The embodied dynamics of emotion, appraisal and attention. In Attention in cognitive systems.* Theories and systems from an interdisciplinary viewpoint (pp. 1-20). Springer Berlin Heidelberg.
 
 > **Abstract.** Emotions can be considered inextricably linked to embod- ied appraisals - perceptions of bodily states that inform agents of how they are faring in the world relative to their own well-being. Emotion- appraisals are thus relational phenomena the relevance of which can be learned or evolutionarily selected for given a reliable coupling between agent-internal and environmental states. An emotion-appraisal atten- tional disposition permits agents to produce behaviour that exploits such couplings allowing for adaptive agent performance across agent- environment interactions. This chapter discusses emotions in terms of dynamical processes whereby attentional dispositions are considered central to an understanding of behaviour. The need to reconcile a dynamical systems perspective with an approach that views emotions as attentional dispositions representative of embodied relational phenomena (embodied appraisals) is argued for. Attention and emotion are considered to be features of adaptive agent behaviour that are interdependent in their temporal, structural and organizational relations.
