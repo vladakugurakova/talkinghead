@@ -1,6 +1,6 @@
 #Reference list
 
-1. Harvard cours of Neorobiology fundamentals – https://www.mcb80x.org 
+1. [*Harvard cours of Neorobiology fundamentals.*](https://www.mcb80x.org)
 2. Articles:
 
 * Lowe, R., Herrera, C., Morse, A., & Ziemke, T. (2007). [*The embodied dynamics of emotion, appraisal and attention. In Attention in cognitive systems.*](https://drive.google.com/open?id=0BwvQgyvMme8cWVFBdXFCU2xnRnZGV1V0YnVXdU5FQ05vdnA0) Theories and systems from an interdisciplinary viewpoint (pp. 1-20). Springer Berlin Heidelberg.
