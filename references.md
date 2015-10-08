@@ -25,6 +25,6 @@
 
 * Kiryazov, K. (2014). [*Grounding Emotion Appraisal in Autonomous Humanoids.*](https://drive.google.com/open?id=0BwvQgyvMme8canlQSEw2MWl4dlE) Department of Computer and Information Science. Linköping, Sweden.
 
->This is a Swedish Licentiate ́s Thesis. The work presented in this dissertation investigates the problem for resource management of autonomous robots.
+> This is a Swedish Licentiate ́s Thesis. The work presented in this dissertation investigates the problem for resource management of autonomous robots.
 
 
